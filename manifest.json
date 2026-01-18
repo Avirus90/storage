@@ -1,0 +1,8 @@
+{
+    "name": "Telegram Cloud Storage",
+    "short_name": "Cloud Storage",
+    "start_url": "/storage/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#667eea"
+}
